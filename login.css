@@ -201,13 +201,15 @@ text-align: center;
 
 color: #000000;
 }
-.logoprincipal {
+.logomain {
    
 position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 500px;
+    width: 200px;
+    height: 200px;
+    left: 600px;
     top: 120px;
     background: #18B23E;
+  border-radius: 50%;
   
 }
+
